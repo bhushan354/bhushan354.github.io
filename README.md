@@ -124,7 +124,7 @@ Coming soon.
 
 ### Deployment
 
-Coming soon.
+https://bhushan354.github.io/
 
 
 
