@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Live-Demo will be added soon. 
+https://bhushan354.github.io/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,7 +124,7 @@ Coming soon.
 
 ### Deployment
 
-https://bhushan354.github.io/
+coming soon ...
 
 
 
